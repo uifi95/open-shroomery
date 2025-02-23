@@ -6,6 +6,8 @@ More details coming soon
 
 ## Libraries
 [PlatformIO](https://platformio.org/)
+
 [Arduino Core](https://github.com/arduino/ArduinoCore-avr)
+
 
 **Happy growing!**
